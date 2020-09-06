@@ -1,0 +1,7 @@
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\10_generics\002_generics\bin\Debug\002_generics.exe.config
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\10_generics\002_generics\bin\Debug\002_generics.exe
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\10_generics\002_generics\bin\Debug\002_generics.pdb
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\10_generics\002_generics\obj\Debug\002_generics.csprojAssemblyReference.cache
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\10_generics\002_generics\obj\Debug\002_generics.csproj.CoreCompileInputs.cache
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\10_generics\002_generics\obj\Debug\002_generics.exe
+E:\Video tutorials\ITVDN\02 [ITVDN] C# Essential\MyHomeworks\10_generics\002_generics\obj\Debug\002_generics.pdb
